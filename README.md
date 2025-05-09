@@ -16,11 +16,9 @@ OpenNeuroPET Phantoms [dataset]. In PublicNeuro Datasets. Neurobiology Research 
 Copenhagen University Hospital Rigshospitalet. https://doi.org/10.70883/igqp1334
 ```
 
-                  
+Someday Github may frown on this repo full of compressed files, but until then they will live here.
 
+## License
 
-Dicoms are hosted here to make importing into CI easier with the use of GIT submodules, someday Github may frown on this repo full of compressed files, but until then they will live here.
-
-
-Licencse: CC-BY 4.0
+CC-BY 4.0
 
